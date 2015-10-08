@@ -1,0 +1,49 @@
+some answers
+
+floats.html
+1. when you float the divs to the right the appear side by side on the right
+2. again appeared side by side but on the left
+3. a larger space appeared between the boxes (div1 on the right and div2 on the left)
+4. the divs now became stacked on the left and div1 was longer/wider
+5. 40% is the max.
+6. it changes size based on the size of the browser window
+7.
+8.
+9. changed the width to 20% and all the columns were even
+10.splitting the last 75% knocked the other divs out of alignment with div1
+11.same thing, the middle div is too large and knocks div3 out of alignment
+
+position.html
+1.
+2. moves farther away from the left edge of the browser
+3. moves straight against the left edge of the browser
+4. the box moves further down the browser
+5. the box moves over the line of text and back away from the left edge of the browser
+6.goes back to original position
+7. the box stays the same and the line of text moves behind the box
+8. the box moves to the absolute top of the page over the directions
+9. moves to the other side of the page (still absolute top)
+10.the box moves over a bit from the right edge of the browser
+11.back to #8
+12.the box moves to the bottom of the directions
+13.
+
+
+lists.html
+1.the bullet points are hollowed circles
+2.the bullet points disappeared and the text moved to the left edge of the browser
+3.still no bullet points
+4.still no bullets... are they coming back?
+5. red line appears around the list space
+6. bullets move to the left on top of the red border
+7. more space on the left side
+8. there's no bullet points anymore
+*I did this exercise out of order so if there's bullets where there isn't supposed to be or vice versa that is why.
+
+1. there's dashed lines around each list element
+2. more space between li elements
+3. restricts the width rather than it going to the edge of the browser
+4. margin is a little closer in from the left
+5. formatting at the edge of the browser
+6. nothing happened
+7. nothing happened
